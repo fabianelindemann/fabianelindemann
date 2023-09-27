@@ -10,11 +10,10 @@
   </div>
   <br>
 <div>
-  <ul>
   O que estamos aprendendo no curso?<br> 
-    <li>☕ Lógica de Programação com Java</li><br>
-    <li>💭 Metodologias Ágeis para TI</li><br> 
-    <li>😻 Git e GitHub</li><br> 
+    ☕ Lógica de Programação com Java<br>
+    💭 Metodologias Ágeis para TI<br> 
+    😻 Git e GitHub<br> 
     📄 HTML e CSS<br>
     💻 JavaScript com jQuery<br> 
     💾 Banco de Dados Relacional <br>
@@ -23,7 +22,6 @@
     🌐 Java WEB <br>
     🍀 Spring Framework<br>
   <br>
-    </ul>
 </div>
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&langs_count=16&theme=tokyonight"/_>
