@@ -1,7 +1,7 @@
 ## Olá, eu sou a Fabiane Lindemann 👋
 ### É bom ver você por aqui!
 ### Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, <br> sou aluna da turma de Desenvolvedor JAVA do Programa Entra21.
-### Encontre-me aqui:
+## Encontre-me aqui:
 <div>
   <a href="https://www.linkedin.com/in/fabiane-lindemann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
   <a href = "mailto:fabianelindemann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
