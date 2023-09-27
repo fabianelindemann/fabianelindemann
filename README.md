@@ -8,7 +8,7 @@
   <a href = "mailto:fabianelindemann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/flindemann1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
   </div>
-  
+  <br>
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&langs_count=16&theme=tokyonight"/_>
   </div>
