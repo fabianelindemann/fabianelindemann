@@ -1,6 +1,6 @@
 ## Olá, eu sou a Fabiane Lindemann 👋
 ### É bom ver você por aqui!
-### Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, <br> sou aluna da turma de JAVA do Programa Entra21.
+### Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, <br> sou aluna da turma de Desenvolvedor JAVA do Programa Entra21.
 ## Encontre-me aqui:
 
 <div>
@@ -10,7 +10,17 @@
   </div>
   <br>
 <div>
-  
+  O que estamos aprendendo no curso? 
+    ☕ Lógica de Programação com Java 
+    💭 Metodologias Ágeis para TI 
+    😻 Git e GitHub 
+    📄 HTML e CSS 
+    💻 JavaScript com jQuery 
+    💾 Banco de Dados Relacional 
+    💠 Programação Orientada a Objetos 
+    💼 Java Avançado 
+    🌐 Java WEB 
+    🍀 Spring Framework
 </div>
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&langs_count=16&theme=tokyonight"/_>
