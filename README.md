@@ -11,7 +11,7 @@
   <br>
 <div>
   O que estamos aprendendo no curso?<br> 
-  <p>☕ Lógica de Programação com Java</p><br>
+    ☕ Lógica de Programação com Java<br>
     💭 Metodologias Ágeis para TI<br> 
     😻 Git e GitHub<br> 
     📄 HTML e CSS<br>
