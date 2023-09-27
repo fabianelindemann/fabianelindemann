@@ -21,6 +21,7 @@
     💼 Java Avançado <br>
     🌐 Java WEB <br>
     🍀 Spring Framework<br>
+  <br>
 </div>
 <div>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&langs_count=16&theme=tokyonight"/_>
