@@ -24,5 +24,5 @@ Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, <br> so
   <br>
 </div>
 <div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&langs_count=16&theme=tokyonight"/_>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianelindemann&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117"/>
   </div>
