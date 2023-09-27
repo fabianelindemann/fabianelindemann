@@ -1,7 +1,6 @@
 ## Olá, eu sou a Fabiane Lindemann 👋
 ### É bom ver você por aqui!
-### Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, 
-### sou aluna da turma de JAVA do Programa Entra21.
+### Nova no fascinante (e talvez um pouco amedrontante) mundo da tecnologia, <br> sou aluna da turma de JAVA do Programa Entra21.
 ## Encontre-me aqui:
 
 <div>
